@@ -1,0 +1,13 @@
+{
+    "git.ignoreMissingGitWarning": true,
+    "python.pythonPath": "D:\\Programs Files\\Python\\Python36",
+    "window.zoomLevel": 0,
+    "workbench.colorTheme": "Visual Studio Dark",
+    "workbench.colorCustomizations": {
+        "editor.selectionBackground": "#0bad06",
+        "editor.selectionHighlightBackground": "#5f7707"
+    },
+    "terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+    "python.linting.pylintArgs": ["--extension-pkg-whitelist=cv2" ] ,
+    
+}
